@@ -24,7 +24,8 @@ This pouch is called an endosome. A cell normally uses endosomes to take in larg
 referenced at [](https://cdnsciencepub.com/doi/full/10.1139/cjm-2020-0572).     
 
 
-For more information, reference [Here](https://cdnsciencepub.com/doi/full/10.1139/cjm-2020-0572)
+For more information, reference [Here](https://cdnsciencepub.com/doi/full/10.1139/cjm-2020-0572)    
+[Also](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4333201/)
 
 Similarly, internalization of bound virions is mediated primarily by clathrin and is followed by the trafficking of virus particles to the acidified late endosome where structural rearrangements of the E protein promote fusion of viral and host membranes. After nucleocapsid penetration into the cytoplasm, the viral genomic RNA is translated into a single polyprotein that is subsequently cleaved into three structural and seven non-structural proteins (NS1, NS2A, NS2B, NS3, NS4A, NS4B, and NS5) by viral (NS3) and as yet undetermined host proteases. Negative-strand viral RNA is synthesized and directs positive-strand RNA synthesis in association with a virus-induced network of membranes. Positive-strand RNA is packaged in progeny virions, which bud into the ER to form enveloped immature virions. The conformation and organization of E on the virion change considerably during virion assembly and release (Figure 1). The E proteins of newly synthesized immature virions exist as dimers with prM and are incorporated into the virion as heterotrimeric spikes that project off its surface. Virion maturation occurs through the actions of furin proteases in the trans-Golgi network during viral egress, and virion secretion into the extracellular space occurs by exocytosis. On mature virions, E proteins lie relatively flat against the virus membrane in a pseudo-icosahedral pattern, resulting in a relatively smooth appearance according to     
 
